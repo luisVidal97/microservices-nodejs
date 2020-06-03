@@ -1,1 +1,1 @@
-This app is about of general concept of how function microservices.
+This app is about general concept of how function microservices.
